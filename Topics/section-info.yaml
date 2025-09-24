@@ -1,0 +1,26 @@
+content:
+  - Template method
+  - Observer
+  - Singleton
+  - The Collections framework overview
+  - Standard functional interfaces
+  - Stream filtering
+  - Formatted output
+  - Multidimensional array
+  - Processing strings
+  - Array exceptions
+  - Debugging techniques
+  - Type Bounds
+  - Comparable
+  - Parameterized test
+  - BigInteger
+  - Generics and Reflection
+  - Input streams
+  - Try with resources
+  - Anonymous classes properties
+  - Switch pattern matching
+  - Records
+  - Switch expression
+  - Command-line arguments
+  - Command
+  - Sealed classes and interfaces

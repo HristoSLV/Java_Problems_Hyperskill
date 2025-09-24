@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: setters
+  - text: toString()
+  - text: equals()
+  - text: getters
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18331#comment
+status: Solved
+record: -1
+custom_name: Generated Code
+local_check: false

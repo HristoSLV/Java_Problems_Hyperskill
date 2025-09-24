@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Compilation error
+  - text: java.lang.Iterable&lt;Object&gt;
+  - text: java.lang.Iterable&lt;?&gt;
+  - text: java.lang.Iterable
+  - text: NullPointerException
+  - text: java.lang.Iterable&lt;java.lang.Integer&gt;
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2585#comment
+status: Solved
+record: -1
+local_check: false

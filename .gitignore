@@ -1,0 +1,50 @@
+# Project exclude paths
+/.gradle/
+/Topics/Anonymous classes properties/Create instance/out/
+/Topics/Anonymous classes properties/Create instance/out/production/classes/
+/Topics/Anonymous classes properties/Fixing the code/out/
+/Topics/Anonymous classes properties/Fixing the code/out/production/classes/
+/Topics/Anonymous classes properties/Iterations/out/
+/Topics/Anonymous classes properties/Iterations/out/production/classes/
+/Topics/Anonymous classes properties/My possibilities/out/
+/Topics/Anonymous classes properties/My possibilities/out/production/classes/
+/Topics/BigInteger/An expression with large numbers/out/
+/Topics/BigInteger/An expression with large numbers/out/production/classes/
+/Topics/BigInteger/Double factorial/out/
+/Topics/BigInteger/Double factorial/out/production/classes/
+/Topics/BigInteger/Multiplication/out/
+/Topics/BigInteger/Multiplication/out/production/classes/
+/Topics/BigInteger/Theory/out/
+/Topics/BigInteger/Theory/out/production/classes/
+/Topics/BigInteger/What can BigInteger store/out/
+/Topics/BigInteger/What can BigInteger store/out/production/classes/
+/Topics/BigInteger/Where you can get BigInteger/out/
+/Topics/BigInteger/Where you can get BigInteger/out/production/classes/
+/Topics/Command/Forex Broker/out/
+/Topics/Command/Forex Broker/out/production/classes/
+/Topics/Command/Real-world examples/out/
+/Topics/Command/Real-world examples/out/production/classes/
+/Topics/Command-line arguments/Basic calculator/out/
+/Topics/Command-line arguments/Basic calculator/out/production/classes/
+/Topics/Command-line arguments/Parameters and their values/out/
+/Topics/Command-line arguments/Parameters and their values/out/production/classes/
+/Topics/Multidimensional array/Symmetric matrix/out/
+/Topics/Multidimensional array/Symmetric matrix/out/production/classes/
+/Topics/Observer/A new rockstar game/out/
+/Topics/Observer/A new rockstar game/out/production/classes/
+/Topics/Parameterized test/Annotations everywhere/out/
+/Topics/Parameterized test/Annotations everywhere/out/production/classes/
+/Topics/Parameterized test/Argument sources/out/
+/Topics/Parameterized test/Argument sources/out/production/classes/
+/Topics/Records/Class Home/out/
+/Topics/Records/Class Home/out/production/classes/
+/Topics/Type Bounds/Find an equivalent/out/
+/Topics/Type Bounds/Find an equivalent/out/production/classes/
+/Topics/Type Bounds/Multiple type bounds/out/
+/Topics/Type Bounds/Multiple type bounds/out/production/classes/
+/Topics/Type Bounds/Multiple type bounds (1)/out/
+/Topics/Type Bounds/Multiple type bounds (1)/out/production/classes/
+/Topics/Type Bounds/Number holder/out/
+/Topics/Type Bounds/Number holder/out/production/classes/
+/Topics/Type Bounds/Theory/out/
+/Topics/Type Bounds/Theory/out/production/classes/

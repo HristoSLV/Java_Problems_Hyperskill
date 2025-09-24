@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Generators
+  - text: Functions
+  - text: Predicates
+  - text: Consumers
+  - text: Suppliers
+  - text: Operators
+  - text: Providers
+  - text: Collectors
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2391#comment
+status: Solved
+record: -1
+local_check: false

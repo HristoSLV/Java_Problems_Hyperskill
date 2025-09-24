@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Type1 may be class type
+  - text: Type2 may be type variable
+  - text: Type1 may be interface type
+  - text: Type1 may be type variable
+  - text: Type2 may be class type
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2616#comment
+status: Solved
+record: -1
+custom_name: Multiple type bounds
+local_check: false

@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "class SomeClass&lt;T extends Object&gt; {...}"
+  - text: "class SomeClass&lt;T extends Type&gt; {...}"
+  - text: "class SomeClass&lt;T extends ParameterizedType&gt; {...}"
+  - text: "class SomeClass&lt;T super Object&gt; {...}"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2615#comment
+status: Solved
+record: -1
+local_check: false
