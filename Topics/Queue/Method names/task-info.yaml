@@ -1,0 +1,29 @@
+type: matching
+captions:
+  - offerFirst()
+  - addLast()
+  - addFirst()
+  - pollFirst()
+  - pollLast()
+options:
+  - Inserts at the front
+  - Retrieves and removes the last element
+  - Inserts at the front without throwing exception
+  - Inserts at the end
+  - Retrieves and removes the first element
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20202#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 25 Sep 2025 16:18:01 UTC"
+record: -1
+ordering:
+  - 2
+  - 3
+  - 0
+  - 4
+  - 1

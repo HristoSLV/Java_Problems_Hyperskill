@@ -24,3 +24,5 @@ content:
   - Command-line arguments
   - Command
   - Sealed classes and interfaces
+  - Thread management
+  - Queue

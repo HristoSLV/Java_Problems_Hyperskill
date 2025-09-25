@@ -4,6 +4,9 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/19716#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 25 Sep 2025 00:29:26 UTC"
 record: -1
 submission_language: java17

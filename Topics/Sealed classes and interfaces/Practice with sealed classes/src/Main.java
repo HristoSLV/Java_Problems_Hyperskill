@@ -12,4 +12,16 @@ sealed abstract class Shape permits Square {
     abstract double getArea();
 }
 
-// implement the Square class here
+final class Square extends Shape {
+
+    private final double radius;
+
+    public Square(double rad) {
+        radius = rad;
+    }
+
+    @Override
+    double getArea() {
+        return radius * radius;
+    }
+}

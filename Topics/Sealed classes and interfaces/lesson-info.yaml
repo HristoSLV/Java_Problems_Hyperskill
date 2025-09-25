@@ -1,3 +1,7 @@
 content:
   - Theory
   - Practice with sealed classes
+  - A base for records
+  - Correct mistakes in the code
+  - Switch pattern matching and a sealed modifier
+  - Allowed access modifiers for interfaces

@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: sealed
+  - text: final
+  - text: non-sealed
+  - text: protected
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19712#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 25 Sep 2025 00:37:52 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+local_check: false
