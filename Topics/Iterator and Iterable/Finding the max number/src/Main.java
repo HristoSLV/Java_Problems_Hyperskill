@@ -1,0 +1,29 @@
+import java.util.*;
+import java.util.stream.Collectors;
+
+public class Main {
+
+    public static int findMaxByIterator(Iterator<Integer> iterator) {
+        // write your code here
+        int max = iterator.next();
+        while (iterator.hasNext()) {
+            int num = iterator.next();
+            if (num > max) {
+                max = num;
+            }
+        }
+        return max;
+    }
+
+    /* Do not change code below */
+    public static void main(String[] args) {
+
+        final Scanner scanner = new Scanner(System.in);
+
+        final List<Integer> list = Arrays.stream(scanner.nextLine().split("\\s+"))
+                .map(Integer::parseInt)
+                .toList();
+
+        System.out.println(findMaxByIterator(list.iterator()));
+    }
+}

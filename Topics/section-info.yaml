@@ -26,3 +26,4 @@ content:
   - Sealed classes and interfaces
   - Thread management
   - Queue
+  - Iterator and Iterable
