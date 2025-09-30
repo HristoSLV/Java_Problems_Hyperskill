@@ -7,6 +7,7 @@
         <option name="delegatedBuild" value="false" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -51,6 +52,11 @@
             <option value="$PROJECT_DIR$/Topics/Comparable/Rules" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
             <option value="$PROJECT_DIR$/Topics/Comparable/compareTo" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Comparing numbers" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Comparing values" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Most valuable items" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Sort users" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Theory" />
             <option value="$PROJECT_DIR$/Topics/Debugging techniques/Assertion" />
             <option value="$PROJECT_DIR$/Topics/Debugging techniques/Different techniques" />
             <option value="$PROJECT_DIR$/Topics/Debugging techniques/Find the error" />

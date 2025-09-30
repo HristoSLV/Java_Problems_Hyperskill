@@ -27,3 +27,4 @@ content:
   - Thread management
   - Queue
   - Iterator and Iterable
+  - Comparator
