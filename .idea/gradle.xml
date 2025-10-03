@@ -33,6 +33,13 @@
             <option value="$PROJECT_DIR$/Topics/BigInteger/Theory" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/What can BigInteger store" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/Where you can get BigInteger" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/ASCII Art" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Existing collectors" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Set average" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Сollect parameter" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/Basic calculator" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/Command line arguments" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/Get the game mode" />
@@ -141,6 +148,10 @@
             <option value="$PROJECT_DIR$/Topics/Records/Personal records" />
             <option value="$PROJECT_DIR$/Topics/Records/Record limitations" />
             <option value="$PROJECT_DIR$/Topics/Records/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Range quadratic sum" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Reduce operations" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Reducing persons by ages" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Theory" />
             <option value="$PROJECT_DIR$/Topics/Sealed classes and interfaces/A base for records" />
             <option value="$PROJECT_DIR$/Topics/Sealed classes and interfaces/Allowed access modifiers for interfaces" />
             <option value="$PROJECT_DIR$/Topics/Sealed classes and interfaces/Correct mistakes in the code" />
@@ -169,6 +180,11 @@
             <option value="$PROJECT_DIR$/Topics/Stream filtering/Omitting long strings" />
             <option value="$PROJECT_DIR$/Topics/Stream filtering/Statements" />
             <option value="$PROJECT_DIR$/Topics/Stream filtering/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The peek method" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The ten most frequent words" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The total number of employees" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/What is the result" />
             <option value="$PROJECT_DIR$/Topics/Switch expression/Advantages of switch expressions" />
             <option value="$PROJECT_DIR$/Topics/Switch expression/Days of the week" />
             <option value="$PROJECT_DIR$/Topics/Switch expression/Invalid syntax" />

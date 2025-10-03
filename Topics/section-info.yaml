@@ -28,3 +28,6 @@ content:
   - Queue
   - Iterator and Iterable
   - Comparator
+  - Stream pipelines
+  - Reduction methods
+  - Collectors

@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Collectors.avgBy()
+  - text: Collectors.reducing()
+  - text: Collectors.groupingBy()
+  - text: Collectors.maxBy()
+  - text: Collectors.splittingBy()
+  - text: Collectors.partitioningBy()
+  - text: Collectors.summingDouble()
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2456#comment
+status: Solved
+record: -1
+local_check: false
