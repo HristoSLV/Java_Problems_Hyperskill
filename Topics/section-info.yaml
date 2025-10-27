@@ -31,3 +31,6 @@ content:
   - Stream pipelines
   - Reduction methods
   - Collectors
+  - Detecting annotations
+  - Enumset
+  - Regexes in programs (1)

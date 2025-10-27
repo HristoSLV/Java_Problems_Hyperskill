@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "[LOTUS, TULIP, ROSE]"
+  - text: "[TULIP, ROSE, LOTUS]"
+  - text: "[TULIP, LOTUS, ROSE]"
+  - text: "[ROSE, TULIP, LOTUS]"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19801#comment
+status: Solved
+record: -1
+local_check: false

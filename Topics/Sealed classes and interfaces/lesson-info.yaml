@@ -5,3 +5,5 @@ content:
   - Correct mistakes in the code
   - Switch pattern matching and a sealed modifier
   - Allowed access modifiers for interfaces
+  - Allowed access modifiers for classes
+  - Practice with sealed interfaces
