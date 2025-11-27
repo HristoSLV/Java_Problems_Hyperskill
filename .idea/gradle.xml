@@ -139,6 +139,13 @@
             <option value="$PROJECT_DIR$/Topics/Parameterized test/Parameters" />
             <option value="$PROJECT_DIR$/Topics/Parameterized test/Theory" />
             <option value="$PROJECT_DIR$/Topics/Parameterized test/Tricky syntax" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/E-mail address" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Find a word with a given length" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/In the middle of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Number parsing" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/The order of using classes" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Why use Pattern and Matcher" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Create an euphonious word" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the output" />
@@ -172,6 +179,11 @@
             <option value="$PROJECT_DIR$/Topics/Regexes in programs (1)/Vehicle registration number" />
             <option value="$PROJECT_DIR$/Topics/Regexes in programs/Theory" />
             <option value="$PROJECT_DIR$/Topics/Regexes in programs/Vehicle registration number" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters with Regex/Methods of Matcher" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters with Regex/Methods of a string" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters with Regex/Remove HTML tags" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters with Regex/Remove extra spaces" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters with Regex/Theory" />
             <option value="$PROJECT_DIR$/Topics/Sealed classes and interfaces/A base for records" />
             <option value="$PROJECT_DIR$/Topics/Sealed classes and interfaces/Allowed access modifiers for classes" />
             <option value="$PROJECT_DIR$/Topics/Sealed classes and interfaces/Allowed access modifiers for interfaces" />
