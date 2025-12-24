@@ -1,8 +1,4 @@
 content:
   - Theory
-  - The annotationType method
-  - Annotations count
-  - Access annotations
-  - Compile time
   - Annotated fields
   - Printing out annotations

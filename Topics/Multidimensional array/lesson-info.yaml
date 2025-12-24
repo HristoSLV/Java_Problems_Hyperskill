@@ -1,10 +1,6 @@
 content:
   - Theory
   - Symmetric matrix
-  - Practical applications
-  - Indexing rules
   - Swap the columns
   - Creating a diagonally striped pattern in a matrix
-  - Printing lengths of nested arrays
   - The star figure
-  - Getting an element from a 3D array

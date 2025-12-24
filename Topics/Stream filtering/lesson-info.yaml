@@ -1,9 +1,5 @@
 content:
   - Theory
-  - Numbers
-  - Combine filters
-  - Statements
   - Bad words detecting
   - Check if a number is prime
   - Omitting long strings
-  - Names
