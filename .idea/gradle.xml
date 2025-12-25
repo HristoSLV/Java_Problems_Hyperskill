@@ -108,8 +108,13 @@
             <option value="$PROJECT_DIR$/Topics/Generics and Reflection/The result of the code (1)" />
             <option value="$PROJECT_DIR$/Topics/Generics and Reflection/Theory" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Count words" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/Decoding Java FileInputStream usage" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Discovering Java input streams" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/Discovering Java input streams (1)" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/FileInputStream class" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/Read into an array" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Reading Bytes from Java File" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/Reading Bytes from Java File (1)" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Reverse input text" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Theory" />
             <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Finding the max number" />
