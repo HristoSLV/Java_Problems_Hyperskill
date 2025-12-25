@@ -1,0 +1,9 @@
+type: unsupported
+custom_name: Why use Pattern and Matcher
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3713#comment
+status: Solved
+record: -1
