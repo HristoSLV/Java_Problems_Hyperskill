@@ -1,6 +1,9 @@
 content:
   - Theory
-  - Reading Bytes from Java File
-  - Discovering Java input streams
   - Reverse input text
   - Count words
+  - Decoding Java FileInputStream usage
+  - Reading Bytes from Java File (1)
+  - Discovering Java input streams (1)
+  - Read into an array
+  - FileInputStream class

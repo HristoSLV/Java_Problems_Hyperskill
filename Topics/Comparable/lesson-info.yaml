@@ -1,11 +1,5 @@
 content:
   - Theory
-  - Natural ordering
-  - Comparing objects
-  - compareTo
   - Addresses
-  - Rules
   - Leaderboard
-  - Rewrite compareTo method
-  - Implement Comparable
   - Implement compareTo method

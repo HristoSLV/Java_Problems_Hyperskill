@@ -1,7 +1,4 @@
 content:
   - Theory
   - Working with queue
-  - Queue accessing rule
-  - What elements does the deque contain
-  - Method names
   - Greedy load balance
