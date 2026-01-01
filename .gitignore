@@ -1,8 +1,17 @@
-# Project exclude paths
-# Compiled class file
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+
+# Build output directories
+/out/
+/target/
+/build/
+
+# Compiled class files
 *.class
 
-# Log file
+# Logs
 *.log
 
 # BlueJ files
@@ -11,7 +20,7 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+# Java package files
 *.jar
 *.war
 *.nar
@@ -20,6 +29,14 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# Virtual machine crash logs
 hs_err_pid*
 replay_pid*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
