@@ -21,7 +21,6 @@ content:
   - Switch pattern matching
   - Records
   - Switch expression
-  - Command-line arguments
   - Command
   - Sealed classes and interfaces
   - Thread management
@@ -36,3 +35,4 @@ content:
   - Regexes in programs (1)
   - Replacing characters with Regex
   - Patterns and Matcher
+  - Command-line arguments
