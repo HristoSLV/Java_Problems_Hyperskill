@@ -22,7 +22,7 @@ public class Main {
 
         final List<Integer> list = Arrays.stream(scanner.nextLine().split("\\s+"))
                 .map(Integer::parseInt)
-                .toList();
+                .collect(Collectors.toList());
 
         System.out.println(findMaxByIterator(list.iterator()));
     }

@@ -7,7 +7,6 @@ content:
   - Stream filtering
   - Formatted output
   - Multidimensional array
-  - Processing strings
   - Array exceptions
   - Debugging techniques
   - Type Bounds
@@ -23,7 +22,6 @@ content:
   - Sealed classes and interfaces
   - Thread management
   - Queue
-  - Iterator and Iterable
   - Comparator
   - Stream pipelines
   - Reduction methods
@@ -31,8 +29,10 @@ content:
   - Detecting annotations
   - Enumset
   - Replacing characters with Regex
-  - Patterns and Matcher
   - Command-line arguments
   - Regexes in programs
   - Generics and Reflection
   - Input streams
+  - Iterator and Iterable
+  - Patterns and Matcher
+  - Processing strings

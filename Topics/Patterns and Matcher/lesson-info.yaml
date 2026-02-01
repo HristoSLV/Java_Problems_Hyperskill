@@ -1,10 +1,10 @@
 content:
-  - Theory
-  - Number parsing
-  - In the middle of a word
-  - Find a word with a given length
-  - Why use Pattern and Matcher (1)
-  - The order of using classes (1)
+  - Patterns and Matcher
+  - Why use Pattern and Matcher
+  - The order of using classes
   - Invoking matches and find
+  - Number parsing
+  - Find a word with a given length
   - Start or end of a word
-  - E-mail address (1)
+  - In the middle of a word
+  - E-mail address

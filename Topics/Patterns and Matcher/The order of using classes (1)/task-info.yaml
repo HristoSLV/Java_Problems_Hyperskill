@@ -1,9 +1,0 @@
-type: unsupported
-custom_name: The order of using classes
-files:
-  - name: src/Task.java
-    visible: true
-    learner_created: false
-feedback_link: https://hyperskill.org/learn/step/3714#comment
-status: Solved
-record: -1

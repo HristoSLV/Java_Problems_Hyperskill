@@ -1,3 +1,10 @@
 content:
-  - Theory
+  - Iterator and Iterable
+  - Match methods and definitions
+  - Determine the order
+  - Iterators and for-each
+  - What is an Iterable
+  - Interfaces with iterator
   - Finding the max number
+  - Reversed list
+  - What is an Iterator

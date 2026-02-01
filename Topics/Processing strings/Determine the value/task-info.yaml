@@ -1,11 +1,4 @@
-type: choice
-is_multiple_choice: false
-options:
-  - text: '" aaabbcccdaa"'
-  - text: '" abcda"'
-  - text: '"aaabbcccdaa"'
-  - text: '"aaabb"'
-  - text: '"abcda "'
+type: unsupported
 files:
   - name: src/Task.java
     visible: true
@@ -13,4 +6,3 @@ files:
 feedback_link: https://hyperskill.org/learn/step/2064#comment
 status: Solved
 record: -1
-local_check: false
