@@ -1,4 +1,9 @@
 content:
-  - Theory
+  - Generics and Reflection
+  - The result of the code
+  - The result of the code (1)
+  - Getting the type of comparator
+  - Getting type bounds
+  - GenericInterface implementation
   - Find a list parameter type
   - How many type variables defined

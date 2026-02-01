@@ -1,12 +1,4 @@
-type: choice
-is_multiple_choice: false
-options:
-  - text: Compilation error
-  - text: java.lang.Iterable&lt;Object&gt;
-  - text: java.lang.Iterable&lt;?&gt;
-  - text: java.lang.Iterable
-  - text: NullPointerException
-  - text: java.lang.Iterable&lt;java.lang.Integer&gt;
+type: unsupported
 files:
   - name: src/Task.java
     visible: true
@@ -14,4 +6,3 @@ files:
 feedback_link: https://hyperskill.org/learn/step/2585#comment
 status: Solved
 record: -1
-local_check: false

@@ -14,7 +14,6 @@ content:
   - Comparable
   - Parameterized test
   - BigInteger
-  - Generics and Reflection
   - Input streams
   - Try with resources
   - Anonymous classes properties
@@ -36,3 +35,4 @@ content:
   - Patterns and Matcher
   - Command-line arguments
   - Regexes in programs
+  - Generics and Reflection
