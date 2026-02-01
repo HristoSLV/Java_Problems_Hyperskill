@@ -32,7 +32,7 @@ content:
   - Collectors
   - Detecting annotations
   - Enumset
-  - Regexes in programs (1)
   - Replacing characters with Regex
   - Patterns and Matcher
   - Command-line arguments
+  - Regexes in programs
