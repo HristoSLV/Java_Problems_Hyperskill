@@ -1,0 +1,9 @@
+type: unsupported
+custom_name: Text blocks
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/25525#comment
+status: Solved
+record: -1

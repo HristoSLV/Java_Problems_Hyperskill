@@ -7,32 +7,33 @@ content:
   - Stream filtering
   - Formatted output
   - Multidimensional array
-  - Processing strings
   - Array exceptions
   - Debugging techniques
   - Type Bounds
   - Comparable
   - Parameterized test
   - BigInteger
-  - Generics and Reflection
-  - Input streams
   - Try with resources
   - Anonymous classes properties
   - Switch pattern matching
   - Records
   - Switch expression
-  - Command-line arguments
   - Command
   - Sealed classes and interfaces
   - Thread management
   - Queue
-  - Iterator and Iterable
   - Comparator
   - Stream pipelines
   - Reduction methods
   - Collectors
   - Detecting annotations
   - Enumset
-  - Regexes in programs (1)
   - Replacing characters with Regex
+  - Command-line arguments
+  - Regexes in programs
+  - Generics and Reflection
+  - Input streams
+  - Iterator and Iterable
   - Patterns and Matcher
+  - Processing strings
+  - Text blocks

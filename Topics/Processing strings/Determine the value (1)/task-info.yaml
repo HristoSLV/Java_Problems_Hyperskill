@@ -1,11 +1,5 @@
-type: choice
-is_multiple_choice: false
-options:
-  - text: '"-"'
-  - text: '"Y"'
-  - text: '"SKILL"'
-  - text: '"H"'
-  - text: '"HYPER"'
+type: unsupported
+custom_name: Determine the value
 files:
   - name: src/Task.java
     visible: true
@@ -13,5 +7,3 @@ files:
 feedback_link: https://hyperskill.org/learn/step/3288#comment
 status: Solved
 record: -1
-custom_name: Determine the value
-local_check: false
