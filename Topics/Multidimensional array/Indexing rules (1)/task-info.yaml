@@ -1,8 +1,9 @@
 type: unsupported
+custom_name: Indexing rules
 files:
   - name: src/Task.java
     visible: true
     learner_created: false
-feedback_link: https://hyperskill.org/learn/step/17318#comment
+feedback_link: https://hyperskill.org/learn/step/12439#comment
 status: Solved
 record: -1
