@@ -1,0 +1,12 @@
+content:
+  - Custom threads
+  - When will a thread start performing a task
+  - The difference between start and run
+  - The order of lines
+  - Multiple threads
+  - Starting threads
+  - Statements about starting threads
+  - Possible order of the output strings
+  - Writing a thread for printing numbers
+  - Message notifier as a thread
+  - Starting runnables
