@@ -43,3 +43,5 @@ content:
   - Stack
   - States of a thread
   - ThreadLocal
+  - Executors
+  - Thread synchronization
