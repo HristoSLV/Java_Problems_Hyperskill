@@ -2,9 +2,8 @@ type: code
 files:
   - name: src/Main.java
     visible: true
-    highlight_level: NONE
     learner_created: false
-feedback_link: https://hyperskill.org/learn/step/12811#comment
+feedback_link: https://hyperskill.org/learn/step/6008#comment
 status: Solved
 record: -1
 submission_language: java17

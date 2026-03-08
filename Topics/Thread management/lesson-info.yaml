@@ -1,6 +1,13 @@
 content:
-  - Thread management
+  - Theory
   - VeganPizza
   - Ordering the execution of threads
-  - Calculate the number of distinct characters
   - Summing with threads
+  - Calculate the number of distinct characters
+  - Sleep
+  - Join
+  - Waiting for a thread
+  - The max number of parallel threads
+  - Workers in programs
+  - The order of lines
+  

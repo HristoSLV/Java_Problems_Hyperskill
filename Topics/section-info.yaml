@@ -38,3 +38,5 @@ content:
   - Processing strings
   - Text blocks
   - Custom annotations and types of annotations
+  - Standard logger
+  - Logback

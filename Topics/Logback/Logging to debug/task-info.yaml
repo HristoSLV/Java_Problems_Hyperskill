@@ -1,0 +1,15 @@
+type: edu
+files:
+  - name: src/logbacktasks/Main.java
+    learner_created: false
+  - name: src/logbacktasks/Solution.java
+    visible: true
+    learner_created: false
+  - name: test/LogbackTasksTest.java
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/27104#comment
+status: Solved
+record: -1
