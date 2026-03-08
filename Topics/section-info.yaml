@@ -45,3 +45,5 @@ content:
   - ThreadLocal
   - Executors
   - Thread synchronization
+  - Standard logger
+  - Logback
