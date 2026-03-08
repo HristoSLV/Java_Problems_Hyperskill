@@ -38,3 +38,12 @@ content:
   - Processing strings
   - Text blocks
   - Custom annotations and types of annotations
+  - Threads as objects
+  - Custom threads
+  - Stack
+  - States of a thread
+  - ThreadLocal
+  - Executors
+  - Thread synchronization
+  - Standard logger
+  - Logback

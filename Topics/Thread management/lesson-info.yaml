@@ -4,3 +4,9 @@ content:
   - Ordering the execution of threads
   - Summing with threads
   - Calculate the number of distinct characters
+  - The order of lines (1)
+  - Sleep (1)
+  - Join (1)
+  - Workers in programs (1)
+  - The max number of parallel threads (1)
+  - Waiting for a thread (1)

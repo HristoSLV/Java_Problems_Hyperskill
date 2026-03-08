@@ -1,0 +1,9 @@
+type: unsupported
+custom_name: Waiting for a thread
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2544#comment
+status: Solved
+record: -1

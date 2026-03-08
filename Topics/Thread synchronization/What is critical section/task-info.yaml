@@ -1,0 +1,9 @@
+type: unsupported
+custom_name: What is critical section?
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/36493#comment
+status: Solved
+record: -1
