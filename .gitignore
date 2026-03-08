@@ -7,18 +7,6 @@
 out/
 
 # ---------------------------
-# Gradle
-# ---------------------------
-.gradle/
-build/
-
-# Keep Gradle wrapper scripts and properties
-!gradlew
-!gradlew.bat
-!gradle/wrapper/gradle-wrapper.properties
-!gradle/wrapper/gradle-wrapper.jar
-
-# ---------------------------
 # Java
 # ---------------------------
 *.class
@@ -53,3 +41,15 @@ Thumbs.db
 *.tmp
 *.bak
 *.swp
+
+# ---------------------------
+# Gradle
+# ---------------------------
+.gradle/
+build/
+
+# Keep Gradle wrapper scripts and properties
+!gradlew
+!gradlew.bat
+!gradle/wrapper/gradle-wrapper.properties
+!gradle/wrapper/gradle-wrapper.jar
