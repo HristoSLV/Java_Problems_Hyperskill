@@ -1,11 +1,13 @@
 type: edu
 files:
   - name: src/logbacktasks/Main.java
+    visible: true
     learner_created: false
   - name: src/logbacktasks/Solution.java
     visible: true
     learner_created: false
   - name: test/LogbackTasksTest.java
+    visible: true
     learner_created: false
   - name: build.gradle
     visible: true
