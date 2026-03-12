@@ -40,3 +40,4 @@ content:
   - Custom annotations and types of annotations
   - Standard logger
   - Logback
+  - Dealing with modifiers
