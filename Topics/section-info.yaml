@@ -41,3 +41,4 @@ content:
   - Standard logger
   - Logback
   - Dealing with modifiers
+  - Manipulating fields and methods
