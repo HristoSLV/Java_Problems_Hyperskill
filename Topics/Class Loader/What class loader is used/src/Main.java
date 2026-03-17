@@ -1,8 +1,8 @@
-import java.util.Scanner;
-
-public class Main {
+class Main {
     public static void main(String[] args) {
-        ClassLoader classLoader = Scanner.class.getClassLoader();
-        System.out.println(classLoader);
+        // code
+        ClassLoader classLoader = Main.class.getClassLoader();
+        String classLoaderName = classLoader.getName();
+        System.out.println(classLoaderName);
     }
 }
