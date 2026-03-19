@@ -5,7 +5,7 @@ abstract class Meal {
     /**
      * It provides template method of meal routine.
      */
-    public void doMeal() {  
+    public void doMeal() {
         // write your code here ...
         prepareIngredients();
         cook();

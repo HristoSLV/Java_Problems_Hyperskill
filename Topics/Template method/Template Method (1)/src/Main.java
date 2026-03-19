@@ -33,13 +33,13 @@ class Steak extends Meal {
 
     @Override
     public void cook() {
-       System.out.println("Fry the steak in the pan");
+        System.out.println("Fry the steak in the pan");
     }
 
-     @Override
-     public void cleanUp() {
+    @Override
+    public void cleanUp() {
         System.out.println("Push dishes in the sink and go coding");
-     }
+    }
 }
 
 class Sandwich extends Meal {
