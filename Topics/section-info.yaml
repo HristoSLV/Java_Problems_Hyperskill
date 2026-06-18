@@ -45,3 +45,4 @@ content:
   - Class Loader
   - Output streams
   - String
+  - java.util.Arrays
