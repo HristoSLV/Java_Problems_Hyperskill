@@ -46,3 +46,4 @@ content:
   - Output streams
   - String
   - java.util.Arrays
+  - Arrays as parameters
